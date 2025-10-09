@@ -3,45 +3,46 @@
 
 
 DEFINITION : Zphishing means creating fake websites that look like real ones to trick people into giving their personal information, like usernames and passwords. It’s often linked to a tool called Zphisher, which helps show how phishing works for learning or research. It should only be used for educational purposes, because using it to steal information or hack accounts is illegal and unethical.
-Outcomes / Learning Objectives
+
+# Outcomes / Learning Objectives
 •	Understand the concept of phishing and social engineering.
 •	Deploy Zphisher to simulate phishing in an ethical environment.
 •	Analyze the simulated attack flow and learn defense tactics.
-Prerequisites
+# Prerequisites
 •	Linux (Kali/Ubuntu) or Android (via Termux)
 •	Git & bash installed
 •	Internet access
-YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
-STEP-1: Go to the chrome browser and search z-phisher.
-STEP-2: Click the Github link zphisher 
-STEP-3: Go to the code(in green box) and Copy (clone) the code
+## YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
+## STEP-1: Go to the chrome browser and search z-phisher.
+## STEP-2: Click the Github link zphisher 
+## STEP-3: Go to the code(in green box) and Copy (clone) the code
 
  <img width="613" height="331" alt="image" src="https://github.com/user-attachments/assets/81b43658-acf9-42c5-b61c-a37cd1e34717" />
 <img width="488" height="269" alt="image" src="https://github.com/user-attachments/assets/d895f609-b09d-42b0-8a88-61adf2f83e77" />
 
  
-STEP-4: Go into the terminal and Type git clone –-depth=1 (paste the link) and press enter….
+## STEP-4: Go into the terminal and Type git clone –-depth=1 (paste the link) and press enter….
 Step-5: Type command : cd zphisher and press enter , then type: bash zphisher.sh and press enter….
  <img width="523" height="253" alt="image" src="https://github.com/user-attachments/assets/de69c2db-6c38-4245-9129-13429dcc0562" />
 
-STEP-6: Now you choose the attack what you want ,For example I choose instagram soo i press  2 and press enter…
+## STEP-6: Now you choose the attack what you want ,For example I choose instagram soo i press  2 and press enter…
  <img width="499" height="241" alt="image" src="https://github.com/user-attachments/assets/6b341a80-daf0-4747-8337-1361bddd1153" />
 
 
-Step-7: Choose the what type of page you want ,For example-I choose traditional login page soo pick number 1 and enter…..
-STEP-8 : And now, I am choosing localhost soo I choose number 1 and press enter……
+## Step-7: Choose the what type of page you want ,For example-I choose traditional login page soo pick number 1 and enter…..
+## STEP-8 : And now, I am choosing localhost soo I choose number 1 and press enter……
  
 <img width="587" height="132" alt="image" src="https://github.com/user-attachments/assets/87b62e48-66a9-4ebf-9b7f-bc4658f6fbd9" />
 
  <img width="587" height="245" alt="image" src="https://github.com/user-attachments/assets/9975c9f4-516f-43e3-a871-817f0eda9841" />
 
 
-STEP-9 : Now you can custom your port but I don’t want to custom so I choose no, press n and enter.
-STEP-10 : Now you found a link ,soo right click and open this link….
+## STEP-9 : Now you can custom your port but I don’t want to custom so I choose no, press n and enter.
+# STEP-10 : Now you found a link ,soo right click and open this link….
  <img width="558" height="269" alt="image" src="https://github.com/user-attachments/assets/369e4be8-e6b3-4875-a6f0-8362a5324606" />
 
 :- After open the link you found a instagram login page…….
-STEP-12 : You enter your username , password and click on login…..
+## STEP-12 : You enter your username , password and click on login…..
  <img width="536" height="259" alt="image" src="https://github.com/user-attachments/assets/ece91605-be93-473d-a96d-315d250eb7fd" />
 
 :-Now on this time, when you enter your username and passward , it goes to the hacker immediately and steal your sensitive information
