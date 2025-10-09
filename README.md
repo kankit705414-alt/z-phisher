@@ -76,3 +76,63 @@ In the **Message File** box, choose the text file that contains your secret mess
 
 ### **Step 3:**  
 In the **Cover File** box, select the image (JPG/PNG) that will hide your message.  
+
+<!-- Upload Step 3 screenshot here --><img width="910" height="743" alt="Screenshot 2025-10-09 114646" src="https://github.com/user-attachments/assets/14818f81-2aab-48f6-9f51-fb4fb67fbfdc" />
+
+
+---
+
+### **Step 4:**  
+In the **Output Stego File** box, choose the folder where the stego image will be saved.  
+This image will contain the hidden message.  
+
+<!-- Upload Step 4 screenshot here --><img width="923" height="720" alt="Screenshot 2025-10-09 114950" src="https://github.com/user-attachments/assets/e6bdac37-184f-4d7e-9109-04a554ae510c" />
+
+
+---
+
+### **Step 5:**  
+Enter a password to protect the secret message (optional but recommended).  
+Confirm the password and then click **Hide Data** to embed the message.  
+
+<!-- Upload Step 5 screenshot here --><img width="832" height="412" alt="Screenshot 2025-10-09 115154" src="https://github.com/user-attachments/assets/b88a491b-094c-4279-b7e0-c547c8e4809a" />
+
+
+---
+
+### **Step 6:**  
+A confirmation message will appear indicating that the data has been hidden successfully.  
+
+<!-- Upload Step 6 screenshot here --><img width="675" height="433" alt="Screenshot 2025-10-09 115334" src="https://github.com/user-attachments/assets/9e27926c-46df-40a8-98d3-5448b6da24cd" />
+
+
+
+---
+
+### **Step 7: Extracting Data**  
+To retrieve the secret message later:
+1. Open OpenStego and click on **Extract Data**.  
+2. Select the stego image created earlier as the **Input Stego File**.  
+3. Choose an output folder for the recovered text file.  
+4. Enter the same password if you used one earlier.  
+5. Click **Extract Data** to reveal the hidden message.
+
+<!-- Upload Step 7 screenshot here --><img width="789" height="651" alt="Screenshot 2025-10-09 115805" src="https://github.com/user-attachments/assets/dc940596-3244-4f9a-bac0-2007e2d4aab0" /><img width="876" height="704" alt="Screenshot 2025-10-09 115903" src="https://github.com/user-attachments/assets/9701496e-adf9-48ce-b31d-701fd1e9dc4f" /><img width="680" height="517" alt="Screenshot 2025-10-09 120103" src="https://github.com/user-attachments/assets/9e20f2a8-2f40-4a6a-9012-5590ebc10cca" /><img width="1489" height="754" alt="Screenshot 2025-10-09 120129" src="https://github.com/user-attachments/assets/d3d133d6-a782-4002-8c2c-1deec7a846a4" />
+
+
+
+
+---
+
+### **Step 8 (Conclusion):**  
+We successfully embedded a secret text file inside an image using OpenStego,  
+and later extracted it to verify that the data was correctly hidden and recovered.
+
+---
+
+## 👨‍💻 Project Info
+**Created by:** (Lavansh Yadav)  
+**Roll No:** (47)    
+**Course:** BCA Cybersecurity and Forensics  
+
+---
