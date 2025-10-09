@@ -1,18 +1,18 @@
 # Practical - 2
-# Z-PHYISHING FOR LOCALHOST
+# 🦈Z-PHYISHING FOR LOCALHOST
 
 
 DEFINITION : Zphishing means creating fake websites that look like real ones to trick people into giving their personal information, like usernames and passwords. It’s often linked to a tool called Zphisher, which helps show how phishing works for learning or research. It should only be used for educational purposes, because using it to steal information or hack accounts is illegal and unethical.
 
-# Outcomes / Learning Objectives
+# 👨🏻‍🎓Outcomes / Learning Objectives
 •	Understand the concept of phishing and social engineering.
 •	Deploy Zphisher to simulate phishing in an ethical environment.
 •	Analyze the simulated attack flow and learn defense tactics.
-# Prerequisites
+# 👇🏻Prerequisites
 •	Linux (Kali/Ubuntu) or Android (via Termux)
 •	Git & bash installed
 •	Internet access
-## YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
+## 👇🏻YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
 ## STEP-1: Go to the chrome browser and search z-phisher.
 ## STEP-2: Click the Github link zphisher 
 ## STEP-3: Go to the code(in green box) and Copy (clone) the code
