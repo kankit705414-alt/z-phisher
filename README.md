@@ -1,4 +1,3 @@
-### RSA ENCRYPTION DECRYPTION 
 # 🧠 RSA Encryption and Decryption Project
 
 ## 🧩 Definition
