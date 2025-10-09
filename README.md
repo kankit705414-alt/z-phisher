@@ -12,7 +12,7 @@ DEFINITION : Zphishing means creating fake websites that look like real ones to 
 •	Linux (Kali/Ubuntu) or Android (via Termux)
 •	Git & bash installed
 •	Internet access
-## 👇🏻YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
+## 🫴🏻YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
 ## STEP-1: Go to the chrome browser and search z-phisher.
 ## STEP-2: Click the Github link zphisher 
 ## STEP-3: Go to the code(in green box) and Copy (clone) the code
