@@ -117,11 +117,15 @@ DEFINITION : Zphishing means creating fake websites that look like real ones to 
 
 # 👨🏻‍🎓Outcomes / Learning Objectives
 •	Understand the concept of phishing and social engineering.
+
 •	Deploy Zphisher to simulate phishing in an ethical environment.
+
 •	Analyze the simulated attack flow and learn defense tactics.
 # 👇🏻Prerequisites
 •	Linux (Kali/Ubuntu) or Android (via Termux)
+
 •	Git & bash installed
+
 •	Internet access
 ## 🫴🏻YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
 ## STEP-1: Go to the chrome browser and search z-phisher.
