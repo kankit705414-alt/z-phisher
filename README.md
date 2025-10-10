@@ -128,16 +128,23 @@ DEFINITION : Zphishing means creating fake websites that look like real ones to 
 ## STEP-2: Click the Github link zphisher LINK- https://github.com/htr-tech/zphisher.git
 ## STEP-3: Go to the code(in green box) and Copy (clone) the code
 
- <img width="613" height="331" alt="image" src="https://github.com/user-attachments/assets/81b43658-acf9-42c5-b61c-a37cd1e34717" />
-<img width="488" height="269" alt="image" src="https://github.com/user-attachments/assets/d895f609-b09d-42b0-8a88-61adf2f83e77" />
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_07_50_53" src="https://github.com/user-attachments/assets/be1cc629-1e84-4694-b00e-63c5de94f610" />
+
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_12_51" src="https://github.com/user-attachments/assets/fa629545-be06-4a45-811d-f827bc4ca679" />
 
  
 ## STEP-4: Go into the terminal and Type git clone –-depth=1 (paste the link) and press enter….
 Step-5: Type command : cd zphisher and press enter , then type: bash zphisher.sh and press enter….
- <img width="523" height="253" alt="image" src="https://github.com/user-attachments/assets/de69c2db-6c38-4245-9129-13429dcc0562" />
+
+ <img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_30_24" src="https://github.com/user-attachments/assets/68f8603a-cdd8-4b03-8626-de4e0448c418" />
+
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_31_01" src="https://github.com/user-attachments/assets/65418cb2-570f-40ab-9802-32982b670c05" />
+
+
 
 ## STEP-6: Now you choose the attack what you want ,For example I choose instagram soo i press  2 and press enter…
- <img width="499" height="241" alt="image" src="https://github.com/user-attachments/assets/6b341a80-daf0-4747-8337-1361bddd1153" />
+ 
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_31_51" src="https://github.com/user-attachments/assets/2aad7624-f414-4370-9d8d-78cd7c7cd301" />
 
 
 ## Step-7: Choose the what type of page you want ,For example-I choose traditional login page soo pick number 1 and enter…..
@@ -145,8 +152,8 @@ Step-5: Type command : cd zphisher and press enter , then type: bash zphisher.sh
  
 <img width="587" height="132" alt="image" src="https://github.com/user-attachments/assets/87b62e48-66a9-4ebf-9b7f-bc4658f6fbd9" />
 
- <img width="587" height="245" alt="image" src="https://github.com/user-attachments/assets/9975c9f4-516f-43e3-a871-817f0eda9841" />
-
+ 
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_33_11" src="https://github.com/user-attachments/assets/1fe622fd-00ef-4a87-917a-8b5574d83e22" />
 
 ## STEP-9 : Now you can custom your port but I don’t want to custom so I choose no, press n and enter.
 # STEP-10 : Now you found a link ,soo right click and open this link….
