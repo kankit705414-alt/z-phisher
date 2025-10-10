@@ -134,7 +134,7 @@ DEFINITION : Zphishing means creating fake websites that look like real ones to 
 
  
 ## STEP-4: Go into the terminal and Type git clone –-depth=1 (paste the link) and press enter….
-Step-5: Type command : cd zphisher and press enter , then type: bash zphisher.sh and press enter….
+## Step-5: Type command : cd zphisher and press enter , then type: bash zphisher.sh and press enter….
 
  <img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_30_24" src="https://github.com/user-attachments/assets/68f8603a-cdd8-4b03-8626-de4e0448c418" />
 
@@ -157,15 +157,21 @@ Step-5: Type command : cd zphisher and press enter , then type: bash zphisher.sh
 
 ## STEP-9 : Now you can custom your port but I don’t want to custom so I choose no, press n and enter.
 # STEP-10 : Now you found a link ,soo right click and open this link….
- <img width="558" height="269" alt="image" src="https://github.com/user-attachments/assets/369e4be8-e6b3-4875-a6f0-8362a5324606" />
 
-:- After open the link you found a instagram login page…….
-## STEP-12 : You enter your username , password and click on login…..
- <img width="536" height="259" alt="image" src="https://github.com/user-attachments/assets/ece91605-be93-473d-a96d-315d250eb7fd" />
 
-:-Now on this time, when you enter your username and passward , it goes to the hacker immediately and steal your sensitive information
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_36_06" src="https://github.com/user-attachments/assets/f05b6124-bbe8-4fe5-a72c-ba9cf4cdfa01" />
  
-<img width="617" height="315" alt="image" src="https://github.com/user-attachments/assets/e2f2362c-37d5-4472-80f5-b402aac83063" />
+
+## :- After open the link you found a instagram login page…….
+## STEP-12 : You enter your username , password and click on login…..
+
+ 
+ <img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_37_21" src="https://github.com/user-attachments/assets/f5d98fb5-ba0c-41a9-867a-b4a43cf22679" />
+ 
+
+## :-Now on this time, when you enter your username and passward , it goes to the hacker immediately and steal your sensitive information
+
+<img width="1920" height="923" alt="VirtualBox_kali_05_10_2025_08_38_11" src="https://github.com/user-attachments/assets/c032a8e9-493c-4882-b1a8-77914f944e4f" />
 
 
  # Practical-3
