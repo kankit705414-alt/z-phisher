@@ -1,4 +1,54 @@
-###    BABU BANARASI DAS UNIVERSITY
+<h1 align="center">BABU BANARASI DAS UNIVERSITY</h1>
+<h2 align="center">SCHOOL OF ENGINEERING</h2>
+<h3 align="center">Department of Computer Science & Engineering</h3>
+
+---
+
+<h2 align="center">PRIVACY AND SECURITY IN IOT LAB</h2>
+<h3 align="center">(ITBC3751)</h3>
+<h3 align="center">Session 2025–26</h3>
+
+---
+
+<h2 align="center">PRACTICAL LAB FILE</h2>
+
+---
+
+<table align="center">
+<tr>
+<td align="left">
+
+**SUBMITTED BY :-**  
+**Name:** *Your Name*  
+**Section:** *Your Section*  
+**Roll No:** *Your Roll No*
+
+</td>
+<td align="right">
+
+**SUBMITTED TO :-**  
+Mr. **Anand Kumar**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📘 INDEX
+
+| S.No | Name of Experiments | Page No | Sign / Remark |
+|------|----------------------|----------|----------------|
+| 1 | RSA encryption–decryption using public and private key | | |
+| 2 | Phishing / Spoofing | | |
+| 3 | Steganography using CMD | | |
+| 4 | Open Stego | | |
+| 5 | Nmap configuration | | |
+
+---
+
+<h4 align="center">✨ Department of Computer Science & Engineering, BBD University ✨</h4>
+
   # Practical - 1  
 
 # by - ABHAY VERMA BCACS11
