@@ -1,16 +1,13 @@
-<h1 align="center">BABU BANARASI DAS UNIVERSITY</h1>
+
 <h1 align="center">BABU BANARASI DAS UNIVERSITY</h1>
 
-<p align="center">
-  <img src=" <img width="317" height="342" alt="image" src="https://github.com/user-attachments/assets/c3ee3715-f9d6-46fd-a955-98492363827a" />
-" alt="BBD Logo" width="250">
-</p>
+ ![bbdu](https://github.com/user-attachments/assets/68e7c79d-1ab5-49f2-b753-4c63ab5b183b)
 
+ 
 <h2 align="center">SCHOOL OF ENGINEERING</h2>
 <h3 align="center">Department of Computer Science & Engineering</h3>
 
  
----
 
 <h2 align="center">PRIVACY AND SECURITY IN IOT LAB</h2>
 <h3 align="center">(ITBC3751)</h3>
