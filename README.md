@@ -1,5 +1,5 @@
-  # Practical - 1
-  by - ABHAY VERMA BCACS11
+  # Practical - 1  by - ABHAY VERMA BCACS11
+ 
 # 🧠 RSA Encryption and Decryption Project
 
 ## 🧩 Definition
@@ -104,8 +104,8 @@ and decrypted it using the Private Key to get back the original message.
 ---
 
 
-# Practical - 2
-by - ANKIT KUMAR BCACS11
+# Practical - 2 by - ANKIT KUMAR BCACS11 ROLL NO- 1250264016
+
 # 🦈Z-PHYISHING FOR LOCALHOST
 
 
@@ -249,7 +249,7 @@ To retrieve the secret message later:
 
 <!-- Upload Step 7 screenshot here --><img width="789" height="651" alt="Screenshot 2025-10-09 115805" src="https://github.com/user-attachments/assets/dc940596-3244-4f9a-bac0-2007e2d4aab0" /><img width="876" height="704" alt="Screenshot 2025-10-09 115903" src="https://github.com/user-attachments/assets/9701496e-adf9-48ce-b31d-701fd1e9dc4f" /><img width="680" height="517" alt="Screenshot 2025-10-09 120103" src="https://github.com/user-attachments/assets/9e20f2a8-2f40-4a6a-9012-5590ebc10cca" /><img width="1489" height="754" alt="Screenshot 2025-10-09 120129" src="https://github.com/user-attachments/assets/d3d133d6-a782-4002-8c2c-1deec7a846a4" />
 
-#  Project - 3
+#  Project - 3 by - LAVANSH YADAV BCACS11
 # 🧠 OpenStego Steganography Project
 
 ## 🧩 Definition
