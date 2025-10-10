@@ -125,7 +125,7 @@ DEFINITION : Zphishing means creating fake websites that look like real ones to 
 •	Internet access
 ## 🫴🏻YOU CAN DO Z-PHISHING FOR EDUCATIONAL PURPOSE WITH GIVEN STEPS
 ## STEP-1: Go to the chrome browser and search z-phisher.
-## STEP-2: Click the Github link zphisher 
+## STEP-2: Click the Github link zphisher LINK- https://github.com/htr-tech/zphisher.git
 ## STEP-3: Go to the code(in green box) and Copy (clone) the code
 
  <img width="613" height="331" alt="image" src="https://github.com/user-attachments/assets/81b43658-acf9-42c5-b61c-a37cd1e34717" />
