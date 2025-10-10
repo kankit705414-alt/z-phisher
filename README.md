@@ -270,4 +270,82 @@ To retrieve the secret message later:
 
 <!-- Upload Step 7 screenshot here --><img width="789" height="651" alt="Screenshot 2025-10-09 115805" src="https://github.com/user-attachments/assets/dc940596-3244-4f9a-bac0-2007e2d4aab0" /><img width="876" height="704" alt="Screenshot 2025-10-09 115903" src="https://github.com/user-attachments/assets/9701496e-adf9-48ce-b31d-701fd1e9dc4f" /><img width="680" height="517" alt="Screenshot 2025-10-09 120103" src="https://github.com/user-attachments/assets/9e20f2a8-2f40-4a6a-9012-5590ebc10cca" /><img width="1489" height="754" alt="Screenshot 2025-10-09 120129" src="https://github.com/user-attachments/assets/d3d133d6-a782-4002-8c2c-1deec7a846a4" />
 
+ ## Project - 4
+ # by- HIMANSHU SAHANI BCACS11
+
+ 🧩 Definition
+The echo command in CMD allows us to display messages or save them into files.
+Using this command, we can create secret message files, share them, and read them later without any special software.
+It’s a simple way to store text securely using basic terminal commands.
+________________________________________
+🎯 Outcomes / Learning
+By the end of this practical, we will be able to:
+•	Use echo command in CMD to create text files.
+•	Save secret messages into files through CMD.
+•	Open and read hidden messages directly from CMD.
+•	Understand basic command-line message handling.
+________________________________________
+🛠️ Required Tools
+•	Laptop/PC with Windows OS
+•	Command Prompt (CMD)
+•	Basic knowledge of file paths
+________________________________________
+⚙️ Working Steps
+Step 1:
+Open Command Prompt on your computer.
+You can press Win + R, type cmd and press Enter.
+
+ <img width="683" height="383" alt="image" src="https://github.com/user-attachments/assets/b3016551-1ddf-4e77-bb33-73678c5c3ea2" />
+
+________________________________________
+Step 2:
+Navigate to the folder where you want to create the secret message fil
+
+ <img width="940" height="762" alt="image" src="https://github.com/user-attachments/assets/34e1ea11-6fbc-4082-ab00-2c9d35da93b7" />
+
+________________________________________
+Step 3:
+Type the following command to create a message file:
+: ✅ This will create a file named message.txt containing the text: “This is my secret message”.
+
+<img width="940" height="108" alt="image" src="https://github.com/user-attachments/assets/480868bd-de33-45fa-bc56-578f7805d34d" />
+
  
+________________________________________
+Step 4:
+To check if the file is created, type:
+You will see message.txt in the list.
+
+<img width="940" height="741" alt="image" src="https://github.com/user-attachments/assets/80adf05e-7d58-406b-a677-850e8d76b63d" />
+ 
+________________________________________
+Step 5:
+To read the hidden message, type:
+✅ Your secret message will be displayed in the terminal.
+
+ <img width="719" height="543" alt="image" src="https://github.com/user-attachments/assets/6723188c-8f0c-4461-bf7f-d2b526e324d5" />
+
+________________________________________
+Step 6 (Optional):
+You can send this message.txt file to anyone.
+When they open CMD and use:
+They will see the secret message you wrote.
+
+ <img width="940" height="775" alt="image" src="https://github.com/user-attachments/assets/9d7a2ad6-693d-438b-96ed-a2b312e849cd" />
+
+________________________________________
+Step 7 (Conclusion):
+We successfully created, saved, and read secret messages using the echo command in CMD.
+No external software was required — only basic terminal commands.
+
+ <img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/dfbf1d50-e32d-4bb8-917e-67d48bf16f41" />
+
+________________________________________
+👨‍💻 Project Info
+Created by: Himanshu Sahanii
+Roll No: 1250264042
+University: BBD University
+Course: BCA Cybersecurity and Forensics
+
+
+
