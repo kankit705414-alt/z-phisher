@@ -4,8 +4,8 @@
  ![bbdu](https://github.com/user-attachments/assets/68e7c79d-1ab5-49f2-b753-4c63ab5b183b)
 
  
-<h2 align="center">SCHOOL OF ENGINEERING</h2>
-<h3 align="center">Department of Computer Science & Engineering</h3>
+<h2 align="left">SCHOOL OF COMPUTER APPLICATION</h2>
+<h3 align="left">School of computer application </h3>
 
  
 
